@@ -1,148 +1,151 @@
+
 [[themes]]
 name = "Catppuccin-latte"
 [themes.palette]
-background = "#eff1f5"
-foreground = "#4c4f69"
-black = "#eff1f5"
-blue = "#1e66f5"
-cyan = "#04a5e5"
-green = "#40a02b"
-magenta = "#8839ef"
-red = "#d20f39"
-white = "#4c4f69"
-yellow = "#df8e1d"
-bright_black = "#eff1f5"
-bright_blue = "#1e66f5"
-bright_cyan = "#04a5e5"
-bright_green = "#40a02b"
-bright_magenta = "#8839ef"
-bright_red = "#d20f39"
-bright_white = "#4c4f69"
-bright_yellow = "#df8e1d"
+background = "#0a0a13"
+foreground = "#4c526a"
+black = "#0a0a13"
+blue = "#3c60bf"
+cyan = "#3b9ac4"
+green = "#52764a"
+magenta = "#6a4db2"
+red = "#8b3341"
+white = "#4c526a"
+yellow = "#a47c3e"
+bright_black = "#262b3a"
+bright_blue = "#4d76de"
+bright_cyan = "#4da7d6"
+bright_green = "#6b8a55"
+bright_magenta = "#7f62d0"
+bright_red = "#a44450"
+bright_white = "#6b708d"
+bright_yellow = "#c4a35c"
 
 [themes.component_style]
-selection = { bg = "#ccd0da", modifiers = ["Bold"] }
+selection = { bg = "#394b63", modifiers = ["Bold"] }
 block_title = { fg = "Magenta" }
 playback_track = { fg = "Cyan", modifiers = ["Bold"] }
 playback_album = { fg = "Yellow" }
 playback_metadata = { fg = "Blue" }
-playback_progress_bar = { bg = "#ccd0da", fg = "Green" }
+playback_progress_bar = { bg = "#394b63", fg = "Green" }
 current_playing = { fg = "Green", modifiers = ["Bold"] }
 page_desc = { fg = "Cyan", modifiers = ["Bold"] }
 table_header = { fg = "Blue" }
 border = {}
 playback_status = { fg = "Cyan", modifiers = ["Bold"] }
 playback_artists = { fg = "Cyan", modifiers = ["Bold"] }
-playlist_desc = { fg = "#6c6f85" }
+playlist_desc = { fg = "#5c6370" }
+
 
 [[themes]]
 name = "Catppuccin-frappe"
 [themes.palette]
-background = "#303446"
-foreground = "#c6d0f5"
-black = "#303446"
-blue = "#8caaee"
-cyan = "#99d1db"
-green = "#a6d189"
-magenta = "#ca9ee6"
-red = "#e78284"
-white = "#c6d0f5"
-yellow = "#e5c890"
-bright_black = "#303446"
-bright_blue = "#8caaee"
-bright_cyan = "#99d1db"
-bright_green = "#a6d189"
-bright_magenta = "#ca9ee6"
-bright_red = "#e78284"
-bright_white = "#c6d0f5"
-bright_yellow = "#e5c890"
+background = "#0a0a13"
+foreground = "#a5b2cf"
+black = "#0a0a13"
+blue = "#698ac6"
+cyan = "#6cb3bf"
+green = "#739561"
+magenta = "#927fc0"
+red = "#b87d7f"
+white = "#a5b2cf"
+yellow = "#c7b27c"
+bright_black = "#222b3a"
+bright_blue = "#7ea4e5"
+bright_cyan = "#8dc2d7"
+bright_green = "#89a26f"
+bright_magenta = "#a791d8"
+bright_red = "#ce8e8d"
+bright_white = "#bcc8e2"
+bright_yellow = "#d9c991"
 
 [themes.component_style]
-selection = { bg = "#414559", modifiers = ["Bold"] }
+selection = { bg = "#4b5970", modifiers = ["Bold"] }
 block_title = { fg = "Magenta" }
 playback_track = { fg = "Cyan", modifiers = ["Bold"] }
 playback_album = { fg = "Yellow" }
 playback_metadata = { fg = "Blue" }
-playback_progress_bar = { bg = "#414559", fg = "Green" }
+playback_progress_bar = { bg = "#4b5970", fg = "Green" }
 current_playing = { fg = "Green", modifiers = ["Bold"] }
 page_desc = { fg = "Cyan", modifiers = ["Bold"] }
 table_header = { fg = "Blue" }
 border = {}
 playback_status = { fg = "Cyan", modifiers = ["Bold"] }
 playback_artists = { fg = "Cyan", modifiers = ["Bold"] }
-playlist_desc = { fg = "#a5adce" }
+playlist_desc = { fg = "#7d8aa2" }
+
 
 [[themes]]
 name = "Catppuccin-macchiato"
 [themes.palette]
-background = "#24273a"
-foreground = "#cad3f5"
-black = "#24273a"
-blue = "#8aadf4"
-cyan = "#91d7e3"
-green = "#a6da95"
-magenta = "#c6a0f6"
-red = "#ed8796"
-white = "#cad3f5"
-yellow = "#eed49f"
-bright_black = "#24273a"
-bright_blue = "#8aadf4"
-bright_cyan = "#91d7e3"
-bright_green = "#a6da95"
-bright_magenta = "#c6a0f6"
-bright_red = "#ed8796"
-bright_white = "#cad3f5"
-bright_yellow = "#eed49f"
+background = "#0a0a13"
+foreground = "#aab8d7"
+black = "#0a0a13"
+blue = "#6d8fd9"
+cyan = "#7bb7c9"
+green = "#84a368"
+magenta = "#9b84cd"
+red = "#bf8688"
+white = "#aab8d7"
+yellow = "#d0bc81"
+bright_black = "#202b43"
+bright_blue = "#84a0f1"
+bright_cyan = "#8cc1dd"
+bright_green = "#96b07b"
+bright_magenta = "#ad9bd8"
+bright_red = "#d28c8d"
+bright_white = "#c1cae1"
+bright_yellow = "#dcd090"
 
 [themes.component_style]
-selection = { bg = "#363a4f", modifiers = ["Bold"] }
+selection = { bg = "#4b5771", modifiers = ["Bold"] }
 block_title = { fg = "Magenta" }
 playback_track = { fg = "Cyan", modifiers = ["Bold"] }
 playback_album = { fg = "Yellow" }
 playback_metadata = { fg = "Blue" }
-playback_progress_bar = { bg = "#363a4f", fg = "Green" }
+playback_progress_bar = { bg = "#4b5771", fg = "Green" }
 current_playing = { fg = "Green", modifiers = ["Bold"] }
 page_desc = { fg = "Cyan", modifiers = ["Bold"] }
 table_header = { fg = "Blue" }
 border = {}
 playback_status = { fg = "Cyan", modifiers = ["Bold"] }
 playback_artists = { fg = "Cyan", modifiers = ["Bold"] }
-playlist_desc = { fg = "#a5adcb" }
+playlist_desc = { fg = "#7f89ab" }
+
 
 [[themes]]
 name = "Catppuccin-mocha"
 [themes.palette]
-background = "#1e1e2e"
-foreground = "#cdd6f4"
-black = "#1e1e2e"
-blue = "#89b4fa"
-cyan = "#89dceb"
-green = "#a6e3a1"
-magenta = "#cba6f7"
-red = "#f38ba8"
-white = "#cdd6f4"
-yellow = "#f9e2af"
-bright_black = "#1e1e2e"
-bright_blue = "#89b4fa"
-bright_cyan = "#89dceb"
-bright_green = "#a6e3a1"
-bright_magenta = "#cba6f7"
-bright_red = "#f38ba8"
-bright_white = "#cdd6f4"
-bright_yellow = "#f9e2af"
+background = "#0a0a13"
+foreground = "#bec8e9"
+black = "#0a0a13"
+blue = "#7a9de8"
+cyan = "#82c0de"
+green = "#8cb97f"
+magenta = "#aa95de"
+red = "#cd8e91"
+white = "#bec8e9"
+yellow = "#e3d592"
+bright_black = "#202a46"
+bright_blue = "#8eb6fb"
+bright_cyan = "#8bd0ea"
+bright_green = "#9acb8a"
+bright_magenta = "#ba9fe1"
+bright_red = "#e29a9c"
+bright_white = "#d1daf3"
+bright_yellow = "#f0e4ab"
 
 [themes.component_style]
-selection = { bg = "#313244", modifiers = ["Bold"] }
+selection = { bg = "#4a5774", modifiers = ["Bold"] }
 block_title = { fg = "Magenta" }
 playback_track = { fg = "Cyan", modifiers = ["Bold"] }
 playback_album = { fg = "Yellow" }
 playback_metadata = { fg = "Blue" }
-playback_progress_bar = { bg = "#313244", fg = "Green" }
+playback_progress_bar = { bg = "#4a5774", fg = "Green" }
 current_playing = { fg = "Green", modifiers = ["Bold"] }
 page_desc = { fg = "Cyan", modifiers = ["Bold"] }
 table_header = { fg = "Blue" }
 border = {}
 playback_status = { fg = "Cyan", modifiers = ["Bold"] }
 playback_artists = { fg = "Cyan", modifiers = ["Bold"] }
-playlist_desc = { fg = "#a6adc8" }
-
+playlist_desc = { fg = "#8c97b3" }
